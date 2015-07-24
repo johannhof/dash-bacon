@@ -1,11 +1,9 @@
 {
   "name": "dash-bacon",
   "version": "1.0.0",
-  "description": "",
+  "repository": "https://github.com/johannhof/dash-bacon",
+  "description": "Bacon.js docset for Dash",
   "main": "generate.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Johann Hofmann",
   "license": "MIT",
   "dependencies": {

@@ -1,0 +1,6 @@
+[submodule "baconjs.github.io"]
+	path = baconjs.github.io
+	url = git@github.com:baconjs/baconjs.github.io.git
+[submodule "baconjs.docset/Contents/Resources/Documents/baconjs.github.io"]
+	path = baconjs.docset/Contents/Resources/Documents/baconjs.github.io
+	url = git@github.com:baconjs/baconjs.github.io.git
